@@ -173,6 +173,8 @@
                 }
             `
         });
+
+        load();
     }
 
     function autoReload(clear = false) {
